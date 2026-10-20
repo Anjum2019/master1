@@ -3,7 +3,7 @@ Enterprise AI Agent Suite for Business Analysts & Reporting Transformation
 A Python/Gradio platform demonstrating three agentic solutions for enterprise reporting:
 1. Dashboard Insights Agent
 2. Reporting Investigation Assistant
-3. Website Summarisation Agent.
+3. Website Summarisation Agent...
 """
 
 import os
