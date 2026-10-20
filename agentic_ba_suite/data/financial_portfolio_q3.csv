@@ -1,0 +1,11 @@
+Business_Unit,Sub_Portfolio,Actual_Revenue_M,Target_Revenue_M,Actual_Cost_M,Target_Cost_M,Actual_Margin_Pct,Target_Margin_Pct,EBITDA_M,Headcount
+Banking & Capital Markets,Core Banking Systems,18.4,19.2,13.8,13.5,25.0,29.7,3.6,145
+Banking & Capital Markets,Payment Gateway Modernization,14.6,13.8,10.2,10.0,30.1,27.5,3.8,110
+Retail & CPG,Omnichannel Commerce Cloud,12.8,13.5,9.8,9.5,23.4,29.6,2.3,95
+Retail & CPG,Supply Chain Visibility Engine,9.5,8.9,6.8,6.7,28.4,24.7,2.2,70
+Healthcare & Life Sciences,Clinical Data Lakehouse,16.2,15.0,11.3,11.1,30.2,26.0,4.1,120
+Healthcare & Life Sciences,Telehealth Platform Support,8.1,8.5,6.2,5.9,23.5,30.6,1.4,65
+Telecom & Media,5G Network Analytics Portal,11.3,12.5,8.9,8.4,21.2,32.8,1.7,85
+Manufacturing & Auto,Smart Factory IoT Reporting,15.7,14.8,11.2,11.0,28.7,25.7,3.7,115
+Public Sector,Citizen Services Portal Migration,7.8,8.2,6.4,5.8,17.9,29.3,0.9,60
+Energy & Utilities,Grid Optimization & Carbon Analytics,10.5,10.0,7.4,7.5,29.5,25.0,2.6,80

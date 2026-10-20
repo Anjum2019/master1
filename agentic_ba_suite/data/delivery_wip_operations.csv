@@ -1,0 +1,9 @@
+Project_ID,Client_Name,Project_Title,Total_Budget_K,Invoiced_To_Date_K,WIP_Balance_K,Unbilled_Over_60D_K,Resource_Utilization_Pct,Milestone_Health,Risk_Flag
+PRJ-401,Global Tier-1 Bank,Core Ledger Power BI Migration,1250,920,240,65,92.5,Amber,WIP Aging Exceeded
+PRJ-402,Retail Superstore,Forecasting Data Lake Integration,880,750,110,12,88.0,Green,On Track
+PRJ-403,HealthCorp Global,Clinical Analytics Dashboard,1420,1100,280,95,96.0,Red,Scope Creep & Billing Leakage
+PRJ-404,Telco Spark,Customer Churn Prediction Engine,650,610,35,0,84.5,Green,On Track
+PRJ-405,AutoMotive Giant,Supply Chain Traceability Dashboard,980,680,260,110,91.0,Red,Delayed UAT Sign-off
+PRJ-406,CleanEnergy Co,Smart Meter Data Reconciliation,720,590,105,18,87.5,Green,On Track
+PRJ-407,State Gov Dept,Citizen Portal Reporting Modernization,1150,820,290,140,81.0,Red,Unmapped Project Codes in ERP
+PRJ-408,FinTech Ventures,Real-Time Payment Fraud Monitor,540,490,45,5,89.0,Green,On Track
