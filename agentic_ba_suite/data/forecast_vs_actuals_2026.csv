@@ -1,0 +1,10 @@
+Month,Forecast_Revenue_K,Actual_Revenue_K,Forecast_Cost_K,Actual_Cost_K,Variance_Revenue_K,Variance_Revenue_Pct,Primary_Driver
+Jan-2026,4200,4250,3150,3120,50,1.19,Strong start in cloud migration engagements
+Feb-2026,4350,4310,3200,3240,-40,-0.92,Minor delivery delay in Retail sector
+Mar-2026,4600,4480,3350,3460,-120,-2.61,Higher subcontractor onshore rates in Healthcare
+Apr-2026,4500,4580,3300,3290,80,1.78,Early milestone sign-off for Smart Factory project
+May-2026,4700,4520,3450,3580,-180,-3.83,Billing dispute pending UAT validation on PRJ-405
+Jun-2026,4950,4720,3600,3790,-230,-4.65,Scope expansion without signed change requests
+Jul-2026,4800,4860,3500,3490,60,1.25,Accelerated backlog burn in Banking portfolio
+Aug-2026,4900,4810,3550,3620,-90,-1.84,Vacation seasonality and delayed timecard approvals
+Sep-2026,5100,4890,3700,3910,-210,-4.12,Foreign exchange currency fluctuation & WIP unbilled
